@@ -2,6 +2,8 @@
 
 The project is a react app, which can collect settings filled in by user from page to generate python data process program.
 
+<img src="appearance.png" width="360">
+
 ## Description
 
 I recently found that javascript is a very interesting language, especially ecmascript6. Cause I'm writing several big data processing projects, and some of the missions are very similar. So, I decide to write a python-code-gen front-end application to help me produce these programs. At past, I just wrote a little piece of javascript, css and html. However, I researched a lot of front-end tech, like react, webpack, es6, typescript, node, and ... Finally! I can take advantage of these teches.
