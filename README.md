@@ -18,7 +18,7 @@ I used `codemirror` to implement python syntax highlight. So, after install `cod
 
 Install command:
 
-`yarn add antd`
-`yarn add codemirror@5.52.0`
+- `yarn add antd`
+- `yarn add codemirror@5.52.0`
 
 Beside, I found the lastest `codemirror` exists some problems. It can not display the syntax highlight very well! So, I suggect you install version 5.52.0.
