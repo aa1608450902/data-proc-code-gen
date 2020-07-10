@@ -1,0 +1,170 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    background-color: #464547;
+}
+
+.app-container {
+    position: absolute;;
+    color: white;
+    background-color: #3e4145;
+    text-align: center;
+    padding-top: 20px;
+    margin-left: 20%;
+    width: 60%;
+    margin-right: 20%;
+    min-height: 100%;
+    /*height: 100%;*/
+}
+
+.app-middle-content {
+}
+
+.app-question-description {
+    font-size: 18px;
+}
+
+.app-vertical-gap {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#app-questions {
+    text-align: left;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+#app-title {
+    display: block;
+    margin: 20px 0 20px 0;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+#app-questions-label {
+    color: #77787b;
+    font-weight: bolder;
+    font-size: 25px;
+}
+
+#app-question-one {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#app-question-one-controller-group {
+    text-align: right;
+}
+
+#app-question-one-button-yes {
+    /*margin-right: 10%; */
+    margin-left: 10%;
+    width: 20%;
+    font-weight: bolder;
+}
+#app-question-one-button-no {
+    /*margin-right: 10%; */
+    margin-left: 10%;
+    width: 20%;
+    font-weight: bolder;
+}
+
+#app-question-two {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#app-question-two-controller-group {
+    text-align: right;
+}
+
+#app-question-two-button-add {margin-left: 5%;font-weight: bolder;}
+#app-question-two-button-remove {margin-left: 5%;font-weight: bolder;}
+
+#app-question-three {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#app-question-four {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#app-question-four-controller-group {
+    text-align: right;
+}
+
+#app-question-four-button {
+    width: 20%;
+    font-weight: bolder;
+}
+
+#app-question-five {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#app-question-five-controller-group {
+    text-align: right;
+}
+
+#app-question-five-button {
+    width: 20%;
+    font-weight: bolder;
+}
+
+#app-question-six {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#app-question-six-controller-group {
+    text-align: right;
+}
+
+#app-question-six-button-yes {
+    /*margin-right: 10%; */
+    margin-left: 10%;
+    width: 20%;
+    font-weight: bolder;
+}
+#app-question-six-button-no {
+    /*margin-right: 10%; */
+    margin-left: 10%;
+    width: 20%;
+    font-weight: bolder;
+}
+
+#app-logic-code {
+    background-color: #3e4145;
+    color: white;
+    /*letter-spacing: 0.8px;*/
+    font-family: monospace;
+}
+
+#app-question-seven {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#app-question-seven-controller-group {
+    text-align: right;
+}
+
+.app-label {
+    font-weight: bolder;
+    margin-right: 10px;
+}
+
+#app-question-seven-input {
+    background-color: #3e4145;
+    color: white;
+}
+
+#app-final {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    text-align: right;
+}
