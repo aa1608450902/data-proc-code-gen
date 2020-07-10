@@ -2,7 +2,7 @@
 
 The project is a react app, which can collect settings filled in by user from page to generate python data process program.
 
-<img src="appearance.png" width="360">
+<img src="share/appearance.png" width="360">
 
 ## Description
 
