@@ -2,7 +2,7 @@
 
 The project is a react app, which can collect settings filled in by user from page to generate python data process program.
 
-<img src="appearance.png" width="360">
+<img src="share/appearance.png" width="1080">
 
 ## Description
 
@@ -18,7 +18,7 @@ I used `codemirror` to implement python syntax highlight. So, after install `cod
 
 Install command:
 
-`yarn add antd`
-`yarn add codemirror@5.52.0`
+- `yarn add antd`
+- `yarn add codemirror@5.52.0`
 
 Beside, I found the lastest `codemirror` exists some problems. It can not display the syntax highlight very well! So, I suggect you install version 5.52.0.
